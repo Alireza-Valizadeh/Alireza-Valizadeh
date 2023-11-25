@@ -17,5 +17,5 @@ Custom Integration with [Ritchiebros](https://www.google.com/search?sca_esv=5852
 - Overview: Successfully led the backend development and managed the project, focusing on delivering a seamless integration that enhanced our service capabilities.
 
 #### 📫 How to Reach Me
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alireza-valizadeh-771786233)
 - **Email:** [Email Me](mailto:ali.valizadeh.dev@gmail.com)
