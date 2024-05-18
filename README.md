@@ -17,9 +17,9 @@ Custom Integration with [Ritchiebros](https://www.google.com/search?sca_esv=5852
 - Overview: Successfully led the backend development and managed the project, focusing on delivering a seamless integration that enhanced our service capabilities.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alireza-Valizadeh&theme=youtube-dark&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri)]
+![GitHub Streak](https://streak-stats.demolab.com?user=Alireza-Valizadeh&theme=youtube-dark&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri&border=FFFFFF)
 
-[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Alireza-Valizadeh&cc=000&tc=fff&ic=fff&bc=000)]
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Alireza-Valizadeh&cc=000&tc=fff&ic=fff&bc=000)
 
 #### 📫 How to Reach Me
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alireza-valizadeh-771786233)
