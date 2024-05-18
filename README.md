@@ -16,6 +16,10 @@ Custom Integration with [Ritchiebros](https://www.google.com/search?sca_esv=5852
 - Tech Stack: Google Cloud, Node.js, TypeScript
 - Overview: Successfully led the backend development and managed the project, focusing on delivering a seamless integration that enhanced our service capabilities.
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alireza-Valizadeh&theme=youtube-dark&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri)](https://git.io/streak-stats)
+
+
 #### 📫 How to Reach Me
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alireza-valizadeh-771786233)
 - **Email:** [Email Me](mailto:ali.valizadeh.dev@gmail.com)
