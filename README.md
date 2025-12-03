@@ -1,13 +1,13 @@
 ## Hi there, I'm Alireza Valizadeh 👋
 
 #### 🔧 Technologies & Tools
-- Languages: TypeScript, JavaScript, Python
+- Languages: TypeScript, JavaScript, Python, PHP
 - Specialties: Backend Development, System Design, Project Management
 - Cloud & Services: Google Cloud, Firebase, Stripe, Hubspot, Elastic Search
 
 #### 💼 Most Recent Professional Experience
-Webreed Inc. - Mid-Level Backend Developer
-- Duration: +2 years of remote work experience
+Glo3D Inc. - Senior Backend Engineer
+- Duration: +5 years of remote work experience
 - Role: Skilled in developing and maintaining robust backend systems, especially in cloud environments. Passionate about implementing best practices like TDD to ensure the delivery of high-quality software.
 
 #### 🌟 Highlight Project
